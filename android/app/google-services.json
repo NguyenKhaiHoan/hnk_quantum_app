@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399491154073",
+    "project_id": "quantum-app-summer-2023-hnk",
+    "storage_bucket": "quantum-app-summer-2023-hnk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399491154073:android:cab9d6b9943edb2c86f808",
+        "android_client_info": {
+          "package_name": "com.hoannk.quantum_app_summer_2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08AfFtNvZk7nvOrdWWmC5gJsUxwxVTos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
